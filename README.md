@@ -6,5 +6,6 @@ You can view the OilRig.afb file via the [Center for Threat Informed Defense UI]
 
 
 
-[Operation flow](https://github.com/center-for-threat-informed-defense/adversary_emulation_library/blob/master/oilrig/Operations_Flow/Operations_Flow.md)
+[**Operation flow**](https://github.com/center-for-threat-informed-defense/adversary_emulation_library/blob/master/oilrig/Operations_Flow/Operations_Flow.md)
+
 

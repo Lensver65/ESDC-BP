@@ -1,1 +1,0 @@
-sqlcmd -S endofroad.boom.box

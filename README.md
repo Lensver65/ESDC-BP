@@ -66,6 +66,7 @@ If it takes too long, use the public reports available:
 * TTPs
 * Mitre ATT&CK  Framework references
 * Recommendations
+
 **Target Audience:**
 * Your SOC ppl
 

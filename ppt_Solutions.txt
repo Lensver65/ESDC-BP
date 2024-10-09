@@ -1,0 +1,31 @@
+1)	What are the hashes of the „b.doc” file?
+
+Wisit the HA analysis, scroll down to "Informative Selection", find "b-doc"
+
+2)	What is the comment „jinfantes” made on VT about the file „update.xml”?
+
+Wisit the HA analysis, scroll down to "Informative Selection", find "update.xml" Copy the sha256 hash, enter it to VT. Check the community pane, read the comment.
+
+3)	What APIs are called by SideTwist?
+
+Open the HA analysis os "SideTwist". Find "Suspicious Indicators", scroll down to Imports suspicious APIs, see the list.
+
+4)	What is the IP of the C&C server?
+
+Open the HA analysis os "SideTwist". Find the "Extracted Strings", locate the IP. 
+
++1 Take a look on the embeded XML file.
+(4bb79dcea0a901f7d9eac5aa05728ae92acb42e0cb22e5dd14134f4421a3d8df)
+
+5)	What is the name of the file created?
+Open the HA analysis os "b.exe". Check the process analysed (Analysed 1 process in total) for b.exe. Under "Files" you can see files created.
+
++1 where else you can find this information?
+Suspicious Indicators --> Opens file with deletion access rights
+VT, under behavior, files dropped.
+
+6)	What is the name of the xml file embeded in b.exe?
+
+Open VT analysis of b.exe, see Details. Under "Contained Resources" find the hash value a73f26a8d504043f785d7360e8febf2eeb8522ec873a0d4dd5d1d4bfd1e67d3d , check it with VT. Under Details, Names, you'll find all names.
+
+

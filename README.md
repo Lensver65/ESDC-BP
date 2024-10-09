@@ -37,6 +37,7 @@ Learn about the threat Actor - OilRig (use the ppt above)
 Use the LINK of [„GGMS Overview.doc”](https://github.com/Lensver65/ESDC-BP/blob/main/Binaries/GGMS%20Overview.doc) (from GitHub) and have it analysed with VirusTotal (and Hybrid analysis). Do the same with the [„SideTwist.exe”](https://github.com/Lensver65/ESDC-BP/blob/main/Binaries/SideTwist.exe) file
 
 If it takes too long, use the public reports available:
+
 [**VT GGMS Overview.doc**](https://www.virustotal.com/gui/file/6ae172b96a12926f8577d831b415172dde0f6df648007ac87f45b69ab84f27d5/detection)
 
 [**HA GGMS Overview.doc**](https://www.hybrid-analysis.com/sample/6ae172b96a12926f8577d831b415172dde0f6df648007ac87f45b69ab84f27d5/6704f205026d9e33960177a3)
@@ -49,6 +50,7 @@ If it takes too long, use the public reports available:
 Use the LINK of [„b.exe”](https://github.com/Lensver65/ESDC-BP/blob/main/Binaries/b.exe) (from GitHub) and have it analysed with VirusTotal (and Hybrid analysis). 
 
 If it takes too long, use the public reports available:
+
 [**VT b.exe**](https://www.virustotal.com/gui/file/9a080bb47fab612597fcb8d31b85f95fc080ed23ca86f75422a73b3f632a1e06/detection)
 
 [**HA b.exe**](https://www.hybrid-analysis.com/sample/9a080bb47fab612597fcb8d31b85f95fc080ed23ca86f75422a73b3f632a1e06/6705017e356faa801f0e4cfa)
@@ -58,6 +60,7 @@ If it takes too long, use the public reports available:
 Use the LINK of [„contact.aspx”](https://github.com/Lensver65/ESDC-BP/blob/main/Binaries/contact.aspx) (from GitHub) and have it analysed with VirusTotal (and Hybrid analysis). 
 
 If it takes too long, use the public reports available:
+
 [**VT contact.aspx**](https://www.virustotal.com/gui/file/1a9e8c9fa81102d2149b8e66e0a148835e3a646bd67ea561506c8ba0b8b562b4/detection)
 
 [**HA contact.aspx**](https://www.hybrid-analysis.com/sample/1a9e8c9fa81102d2149b8e66e0a148835e3a646bd67ea561506c8ba0b8b562b4/6705049174a2b5d21f0e26d6)
